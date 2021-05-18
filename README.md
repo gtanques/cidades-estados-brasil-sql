@@ -1,4 +1,4 @@
-# CIDADES E ESTADOS DO BRASIL SQL
+# CIDADES E ESTADOS DO BRASIL POSTGRESQL
 ### Tabelas: 
   País -> id, nome, sigla, bacen
   Estado -> id, nome, uf, ibge, pais, ddd
