@@ -5741,12 +5741,6 @@ INSERT INTO public.cidade(nome, uf, ibge, latitude, longitude, cod_tom) VALUES
 ('Pescaria Brava', 24, 4212650, -28.3966007232666016,  -48.8863983154297017, 0);
 
 --
--- Name: cidade_id_seq; Type: SEQUENCE SET;
---
-
-SELECT pg_catalog.setval('public.cidade_id_seq', 1, false);
-
---
 -- Name: estado pais_fk; Type: CONSTRAINT;
 --
 
